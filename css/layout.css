@@ -58,3 +58,8 @@
   width: 32%;
   margin: 0.7em 0em 0.7em 0.7em;
 }
+
+.border_right {
+  clear: both;
+  float: left;
+}
