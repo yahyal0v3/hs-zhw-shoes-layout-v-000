@@ -25,7 +25,8 @@
 /* Posititoning Classes */
 
 .milk_text {
-  padding-top: 2em;
+  position: relative;
+  top: 2em;
 }
 
 .shadow {
