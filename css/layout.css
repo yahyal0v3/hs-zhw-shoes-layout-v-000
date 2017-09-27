@@ -30,8 +30,10 @@
 
 #summer {
   width: 66.66%;
+  margin: 2em;
 }
 
 #shoe {
-  width: 33.33%
+  width: 33.33%;
+  margin: 2em;
 }
