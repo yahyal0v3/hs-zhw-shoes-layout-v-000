@@ -24,4 +24,15 @@
 
 /* Posititoning Classes */
 
+.shadow {
+  float: left;
+}
+
+#summer {
+  width: 33.33%
+}
+
+#shoe {
+  width: 66.66%
+}
 
