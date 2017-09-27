@@ -39,6 +39,7 @@
 }
 
 #bugs {
+  clear: both;
   width: 10%;
   margin: 0.5em 0.5em 0.5em 0em;
 }
